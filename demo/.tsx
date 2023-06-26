@@ -2,7 +2,7 @@
 import { useState } from 'react';
 
 type ThemeProps = {
-  name: '#Vlad';
+  name: '#Vlad III';
   twitterHandle: '0x416C65';
   githubHandle: '0x416C65';
   initialDownloads: 100_000_000;
