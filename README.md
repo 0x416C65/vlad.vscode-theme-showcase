@@ -1,4 +1,4 @@
-## #Vlad - A Dark Elegance
+# #Vlad - A Dark Elegance
 
 [![Version](https://img.shields.io/visual-studio-marketplace/v/0x416C65.vlad-theme?style=for-the-badge)](https://marketplace.visualstudio.com/items?itemName=0x416C65.vlad-theme)
 [![Downloads](https://img.shields.io/visual-studio-marketplace/d/0x416C65.vlad-theme?style=for-the-badge) ](https://marketplace.visualstudio.com/items?itemName=0x416C65.vlad-theme)
