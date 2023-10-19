@@ -1,6 +1,6 @@
 ## #Vlad - A Dark Elegance
 
-[![Open in Visual Studio Code](https://img.shields.io/static/v1?logo=visualstudiocode&label=&message=Open%20in%20Visual%20Studio%20Code&labelColor=2c2c32&color=007acc&logoColor=007acc)](https://vscodethemes.com/e/0x416c65.vlad-theme/vlad-titan-shade-1/open?with=web)
+[![Open in Visual Studio Code](https://img.shields.io/static/v1?logo=visualstudiocode&label=&message=Open%20in%20Visual%20Studio%20Code&labelColor=2c2c32&color=007acc&logoColor=007acc)](https://vscodethemes.com/e/0x416c65.vlad-theme/vlad-titan-shade-1/open?with=desktop)
 [![Marketplace Version](https://img.shields.io/visual-studio-marketplace/v/0x416C65.vlad-theme)](https://marketplace.visualstudio.com/items?itemName=0x416C65.vlad-theme)
 [![Downloads](https://img.shields.io/visual-studio-marketplace/d/0x416C65.vlad-theme)](https://marketplace.visualstudio.com/items?itemName=0x416C65.vlad-theme)
 [![Installs](https://img.shields.io/visual-studio-marketplace/i/0x416C65.vlad-theme)](https://marketplace.visualstudio.com/items?itemName=0x416C65.vlad-theme)
