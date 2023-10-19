@@ -1,10 +1,10 @@
 ## #Vlad - A Dark Elegance
 
-[![Version](https://img.shields.io/visual-studio-marketplace/v/0x416C65.vlad-theme?style=for-the-badge)](https://marketplace.visualstudio.com/items?itemName=0x416C65.vlad-theme)
-[![Downloads](https://img.shields.io/visual-studio-marketplace/d/0x416C65.vlad-theme?style=for-the-badge) ](https://marketplace.visualstudio.com/items?itemName=0x416C65.vlad-theme)
-[![Installs](https://img.shields.io/visual-studio-marketplace/i/0x416C65.vlad-theme?style=for-the-badge)](https://marketplace.visualstudio.com/items?itemName=0x416C65.vlad-theme)
+[![Version](https://img.shields.io/visual-studio-marketplace/v/0x416C65.vlad-theme?style=flat-square)](https://marketplace.visualstudio.com/items?itemName=0x416C65.vlad-theme)
+[![Downloads](https://img.shields.io/visual-studio-marketplace/d/0x416C65.vlad-theme?style=flat-square) ](https://marketplace.visualstudio.com/items?itemName=0x416C65.vlad-theme)
+[![Installs](https://img.shields.io/visual-studio-marketplace/i/0x416C65.vlad-theme?style=flat-square)](https://marketplace.visualstudio.com/items?itemName=0x416C65.vlad-theme)
 
-_This represents a unique adaptation of Dracula's authentic theme, tweaked to exude a darker ambiance. I've further customized some JavaScript/TypeScript configurations and italic elements to suit my personal preferences._
+This represents a unique adaptation of Dracula's authentic theme, tweaked to exude a darker ambiance. I've further customized some JavaScript/TypeScript configurations and italic elements to suit my personal preferences.
 
 ![Preview](./assets/open-graph/vlad-dracula-shade-1.png)
 
