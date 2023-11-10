@@ -3,6 +3,19 @@
 All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
+## [2.0.4] - 2023-11-09
+
+### Added
+
+- Implemented a border for the title bar.
+- Added distinct background and foreground colors for the title bar when the window is unfocused/inactive, previously it was the same.
+
+### Changed
+
+- Comments now have italic styling to differentiate them more clearly.
+- Introduced a new, subtler color to distinguish files and folders that are ignored by git (`.gitignore`).
+
+
 ## [2.0.3] - 2023-10-20
 
 ### Changed
