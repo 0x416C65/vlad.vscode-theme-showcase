@@ -16,10 +16,7 @@ This represents a unique adaptation of Dracula's authentic theme, tweaked to exu
 3. Click **Install**
 4. Open the **Command Palette** with `Ctrl+Shift+P` or `⇧⌘P`
 5. Select **Preferences: Color Theme** and choose one of the #Vlad variants:
-   - [`#Vlad - Titan (Shade 1)`](./assets/screenshot/vlad-titan-shade-1.png)
-   - [`#Vlad - Dracula (Shade 1)`](.ssets/screenshot/vlad-dracula-shade-1.png)
-   - [`#Vlad - Dracula (Shade 2)`](.ssets/screenshot/vlad-dracula-shade-2.png)
-   - [`#Vlad - Dracula (Shade 3)`](.ssets/screenshot/vlad-dracula-shade-3.png)
+   - [`#Vlad - Dracula (Shade 1)`](assets/screenshot/vlad-dracula-shade-1.png)
 6. Enjoy! 🎉 And maybe give a rating? ⭐
 
 ## 📣 Stay in touch

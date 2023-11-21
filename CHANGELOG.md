@@ -3,6 +3,27 @@
 All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
+## [3.0.0] - 2023-11-20
+
+### Changed
+
+- Removed the original #Vlad theme variations.
+- Renamed the `"Titan"` variation to `"Dracula"`.
+- Reduced the brightness of white-derived colors.
+
+## [2.1.5] - 2023-11-18
+
+### Added
+
+- Added blurring for files listed in `.gitignore`.
+- Added border for the editor group.
+
+### Changed
+
+- Changed warning color.
+- Changed title bar background color.
+- Altered editor widget colors for highlighted words.
+
 ## [2.0.4] - 2023-11-09
 
 ### Added

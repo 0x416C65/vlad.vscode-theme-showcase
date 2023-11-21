@@ -2,7 +2,7 @@
 import { useState } from 'react';
 
 type ThemeProps = {
-  name: '#Vlad III';
+  name: '#Vlad - Dracula (Shade 1)';
   twitterHandle: '0x416C65';
   githubHandle: '0x416C65';
   initialDownloads: 100_000_000;
