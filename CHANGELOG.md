@@ -3,6 +3,20 @@
 All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
+## [4.0.0] - 2023-12-20
+
+### Changed
+
+- Renamed "#Vlad - Dracula (Shade 1)" to a new, more descriptive name to enhance theme identification.
+- Removed `activeTabBorder` to simplify the tab appearance.
+- Removed shadows and added a bottom border on the tab bar for a cleaner, more streamlined look.
+- Removed italics from TypeScript types and React components to standardize font styling across different code elements.
+
+### Added
+
+- Added `editorLineNumber.foreground` customization for improved line number visibility.
+- Introduced `activeBorderTop` to enhance the active window's visibility and focus.
+
 ## [3.0.0] - 2023-11-20
 
 ### Changed
@@ -35,7 +49,6 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
 - Comments now have italic styling to differentiate them more clearly.
 - Introduced a new, subtler color to distinguish files and folders that are ignored by git (`.gitignore`).
-
 
 ## [2.0.3] - 2023-10-20
 
