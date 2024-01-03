@@ -7,7 +7,7 @@
 
 This represents a unique adaptation of Dracula's authentic theme, tweaked to exude a darker ambiance. I've further customized some JavaScript/TypeScript configurations and italic elements to suit my personal preferences.
 
-![Preview](./assets/open-graph/vlad-titan-shade-1.png)
+![Preview](./assets/open-graph/vlad-titan-1.png)
 
 ## 🤝 Installation
 
@@ -16,7 +16,8 @@ This represents a unique adaptation of Dracula's authentic theme, tweaked to exu
 3. Click **Install**
 4. Open the **Command Palette** with `Ctrl+Shift+P` or `⇧⌘P`
 5. Select **Preferences: Color Theme** and choose one of the #Vlad variants:
-   - [`#Vlad - Titan (Shade 1)`](assets/screenshot/vlad-titan-shade-1.png)
+   - [`#Vlad - Titan - H(0:0)/S(0:0)/L(0:0)`](assets/screenshot/vlad-titan-1.png)
+   - (...)
 6. Enjoy! 🎉 And maybe give a rating? ⭐
 
 ## 📣 Stay in touch

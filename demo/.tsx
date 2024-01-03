@@ -2,10 +2,10 @@
 import { useState } from 'react';
 
 type ThemeProps = {
-  name: '#Vlad - Titan (Shade 1)';
+  name: '#Vlad - Titan - H(0:0)/S(0:0)/L(0:0)';
   twitterHandle: '0x416C65';
   githubHandle: '0x416C65';
-  initialDownloads: 100_000_000;
+  initialDownloads: 0;
 };
 
 const ThemeComponent = ({
