@@ -20,5 +20,4 @@ This represents a unique adaptation of Dracula's authentic theme, tweaked to exu
 
 You can find me on the following social platforms:
 
-- [Twitter](https://twitter.com/0x416C65)
 - [GitHub](https://github.com/0x416C65)
